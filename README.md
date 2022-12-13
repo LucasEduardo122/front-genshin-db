@@ -1,4 +1,4 @@
-Pojeto feito com [Next.js](https://nextjs.org/) e Tailwindcss [Tailwind](https://tailwindcss.com/)
+Projeto feito com [Next.js](https://nextjs.org/) e Tailwindcss [Tailwind](https://tailwindcss.com/)
 
 Foi utilizado a api genshin db para retorno dos dados de genshin impact [GenshinDB](https://github.com/theBowja/genshin-db-api)
 
